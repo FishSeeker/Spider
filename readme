@@ -1,0 +1,3 @@
+git add readme.txt #　增加一文件
+git commit -m "wrote a readme file" #　提交这个修改
+git push -u origin master #　向远端库推送这个修改
